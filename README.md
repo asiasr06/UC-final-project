@@ -1,33 +1,15 @@
-> ملاحظة: يجب تعبئة هذا الملف بمعلومات المشروع، يمكنك اختيار اللغة. تأكد من مسح اللغة الأخرى والتعليقات الجانبية
-> ⬇️ تعبئة معلومات المشروع بالعربية  
-<div dir="rtl">
 
-### اسم الطالب
-
-
-### اسم المشروع
-
-
-# شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
-
-
-# الأعمال المستقبلية
-
-
-</div>
-
-> Fill out project information in English ⬇️
 ### Student Name
-
+Asia Alrabiah
 
 ### Project Name
+Personal CV website
 
 # Idea
-Problem and solutions if found 
+Being a fresh graduate, one of my current goals is to upgrade my CV. If I'm to have a career in web development, it's only natural to have a digital CV. It's the most persuasive and self-explanatory way to showcase my skills as a web developer.
 
 
 # Future Work 
-
+Not sure yet.
 
 
