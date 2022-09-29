@@ -10,6 +10,6 @@ Being a fresh graduate, one of my current goals is to upgrade my CV. If I'm to h
 
 
 # Future Work 
-this is just a draft. In the future I need to change the CV card to look more realistic and add more containers inside for each section of the CV.
+this is just a draft. Due to personal circumstances I couldn't do much. In the future I need to change the CV card to look more realistic and add more containers inside for each section of the CV.
 
 
